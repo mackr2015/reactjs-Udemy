@@ -8,4 +8,5 @@
 ### Guide
 - start here (Install Tailwind Css with Vite)[https://tailwindcss.com/docs/guides/vite]
 - check the package.json for correct `npm` commands
+- free icons (Icons8.com)[https://icons8.com/icons/set/menu-bar]
 
