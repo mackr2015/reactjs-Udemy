@@ -11,6 +11,7 @@
 - free icons (Icons8.com)[https://icons8.com/icons/set/menu-bar]
 - using react spring for animation (React Spring)[https://www.react-spring.dev/docs/getting-started] 
 - install react-spring `npm i -D react-spring`
+- fetch news from (https://newsapi.org/)[https://newsapi.org/] and store in Blog page
 
 ### To Do
 - [] reseach tailwind animate
