@@ -14,3 +14,14 @@
     @apply mt-2 mb-2 rounded-md bg-blue-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-blue-400 transition ease-in-out focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white
 }
 
+.navMenuBar {
+    @apply z-50 max-w-10 cursor-pointer relative 
+}
+
+.navMenu {
+    @apply fixed bg-slate-400 top-0 left-0 w-full h-full p-5 z-10
+}
+.container-main {
+    @apply pl-5 pr-5 pt-0 pb-0
+}
+

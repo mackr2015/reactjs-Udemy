@@ -7,7 +7,22 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundColor: {
+        'black-t-50': 'rgba(0,0,0,0.5)',
+        'black-t-30': 'rgba(0,0,0,0.3)',
+      },
+      keyframes: {
+        'open-menu': {
+          '0%': { width: '0%' },
+          '80%': { width: '80%'},
+          '100%': { width: '100%'},
+        },
+      },
+      animation: {
+        'open-menu': 'open-menu 0.4s ease-in-out forwards',
+      }
+    },
   },
   plugins: [
     plugin(function({ addBase }) {
