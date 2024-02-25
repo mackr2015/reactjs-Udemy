@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import MenuBar from '../../assets/menu-bar.svg'
-import MenuBarClose from '../../assets/menu-bar-close.svg'
+import MenuBar from '../../../assets/menu-bar.svg'
+import MenuBarClose from '../../../assets/menu-bar-close.svg'
 import {useTransition, animated} from '@react-spring/web';
 import NavigationMenu from './NavigationMenu.jsx'
 

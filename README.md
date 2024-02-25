@@ -12,7 +12,9 @@
 - using react spring for animation (React Spring)[https://www.react-spring.dev/docs/getting-started] 
 - install react-spring `npm i -D react-spring`
 - fetch news from (https://newsapi.org/)[https://newsapi.org/] and store in Blog page
+- http req with (Axios)[https://axios-http.com/docs/intro]
+- making http req (blog tutorial)[https://circleci.com/blog/making-http-requests-with-axios/]
 
 ### To Do
-- [] reseach tailwind animate
+- [] reseach tailwind animate for indipendent css - customize
 
