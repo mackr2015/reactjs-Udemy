@@ -14,6 +14,7 @@
 - fetch news from (https://newsapi.org/)[https://newsapi.org/] and store in Blog page
 - http req with (Axios)[https://axios-http.com/docs/intro]
 - making http req (blog tutorial)[https://circleci.com/blog/making-http-requests-with-axios/]
+- used css spinner for page load wait (Spinner url)[https://loading.io/css/]
 
 ### To Do
 - [] reseach tailwind animate for indipendent css - customize
