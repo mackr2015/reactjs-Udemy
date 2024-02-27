@@ -76,7 +76,6 @@ function Blog() {
     }
 
 
-   
 
     return (
         <div className="container container-main">

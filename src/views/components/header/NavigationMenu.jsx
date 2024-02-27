@@ -29,6 +29,14 @@ function NavigationMenu(props) {
                         Blog
                 </Link>
             </li>
+            <li>
+                <Link 
+                    to="/techcrunch"
+                    onClick={props.closeMenu}
+                    >
+                        Techcrunch
+                </Link>
+            </li>
         </ul>
     </div>
   )

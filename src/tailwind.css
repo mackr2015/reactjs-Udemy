@@ -29,6 +29,17 @@
     @apply max-w-md mb-40 mt-4 mr-auto 
 }
 
+.postMeta {
+  @apply flex mb-4 mt-4 justify-between
+}
+
+.author {
+  @apply font-bold text-sm mb-4
+}
+.publishedDate {
+  @apply font-bold text-sm mb-4 flex
+}
+
 /* Spinner */
 .lds-ripple {
     display: block;

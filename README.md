@@ -15,7 +15,9 @@
 - http req with (Axios)[https://axios-http.com/docs/intro]
 - making http req (blog tutorial)[https://circleci.com/blog/making-http-requests-with-axios/]
 - used css spinner for page load wait (Spinner url)[https://loading.io/css/]
+- fetch news from techcrunch 
+- build and use custom Hook for Axios Http request API
 
 ### To Do
-- [] reseach tailwind animate for indipendent css - customize
+- [x] reseach tailwind animate for indipendent css - customize
 
